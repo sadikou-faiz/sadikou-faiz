@@ -13,6 +13,10 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sadikou-faiz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sadikou-faiz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+       <a href="https://github.com/sadikou-faiz">
+      <img alt="Vues du profil GitHub" title="Vues du profil" src="https://komarev.com/ghpvc/?username=sadikou-faiz&color=green&style=for-the-badge&label=Profile%20Views"/>
+   </a>
    </p>
 
 
