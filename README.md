@@ -5,9 +5,11 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
 
 
   <p align="left">
-      <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <a href="">
             <img alt="views" title="views" src="https://komarev.com/ghpvc/?username=sadikou-faiz&style=for-the-badge"/>
        </a>
+     <a href="https://github.com/antonkomarev/github-profile-views-counter">
+         <img alt="views" title="views" src="https://komarev.com/ghpvc/?username=sadikou-faiz&style=for-the-badge"/></a> 
       <a href="https://www.youtube.com/c/FaïzDev?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC46ytp7_ZW9X92vjqHKVuuA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/FaïzDev">
