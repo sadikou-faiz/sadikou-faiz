@@ -34,7 +34,7 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30px" style="padding-right:10px;" />
+
 </p>
 
 
