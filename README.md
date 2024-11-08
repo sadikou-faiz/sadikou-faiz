@@ -1,3 +1,4 @@
+# Faiz ADENLE
 **`Ingénieur Logiciel`**
 Passionné de développement, j'aime travailler sur des projets qui me tiennent à cœur. Je partage également mes connaissances à travers des cours que je publie sur ma chaîne YouTube, "[Faizdev][YouTube]", qui compte plus de 17 000 abonnés.
 
@@ -37,6 +38,8 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" />
 </p>
+
+   ---
 
 ### 📊 Stats
 
