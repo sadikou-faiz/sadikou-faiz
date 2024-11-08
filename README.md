@@ -25,8 +25,8 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
 
 ### 🧰 Langages, Frameworks et Outils
 
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" style="padding-right:10px;" />
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30px" style="padding-right:10px;" />
@@ -37,8 +37,7 @@ Passionné de développement, j'aime travailler sur des projets qui me tiennent 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" style="padding-right:10px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" />
-
-  </p>
+</p>
 
 
 
